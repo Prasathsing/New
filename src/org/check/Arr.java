@@ -13,6 +13,7 @@ public class Arr {
      l.add(25842);
      l.add("prakash");
      l.add(24.49);
+     l.add("Prasathsing");
      System.out.println(l);
      System.out.println(l.size());
      System.out.println(l.get(3));
