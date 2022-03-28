@@ -14,6 +14,7 @@ public class Arr {
      l.add("prakash");
      l.add(24.49);
      l.add("Prasathsing");
+     l.add("Prasath");
      System.out.println(l);
      System.out.println(l.size());
      System.out.println(l.get(3));
